@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand|Source+Sans+Pro&display=swap');
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1, h2, h3 {
+	font-family: 'Quicksand', sans-serif;
+}
